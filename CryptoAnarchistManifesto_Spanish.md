@@ -1,0 +1,18 @@
+# El Manifiesto Criptoanarquista
+
+**Timothy C. May**  
+tcmay@netcom.com  
+
+---
+
+Un espectro acecha el mundo moderno, el espectro del criptoanarquismo.
+
+La tecnología informática está a punto de brindar la capacidad a individuos y grupos para comunicarse y interactuar de manera totalmente anónima. Dos personas pueden intercambiar mensajes, hacer negocios y negociar contratos electrónicos sin nunca conocer el nombre verdadero o la identidad legal del otro. Las interacciones en las redes serán indetectables, gracias a un reenvío extendido de paquetes cifrados y a cajas inviolables que implementan protocolos criptográficos con casi una total certeza contra cualquier manipulación. Las reputaciones serán de importancia central, mucho más importantes en las transacciones que incluso las calificaciones crediticias de hoy. Estos desarrollos cambiarán completamente la naturaleza de la regulación gubernamental, la capacidad para imponer impuestos y controlar las interacciones económicas, la capacidad para mantener información secreta, y hasta cambiarán la naturaleza de la confianza y la reputación.
+
+La tecnología para esta revolución - que será tanto social como económica - ha existido en teoría durante la última década. Los métodos se basan en el cifrado de clave pública, sistemas interactivos de prueba cero-conocimiento, y varios protocolos de software para la interacción, autentificación y verificación. Hasta ahora, la atención se ha centrado en conferencias académicas en Europa y Estados Unidos, monitoreadas de cerca por la Agencia Nacional de Seguridad. Pero solo recientemente los computadores personales y las redes informáticas han alcanzado una velocidad suficiente para hacer realidad estas ideas. Y las próximas diez años traerán suficiente velocidad adicional para hacer económicamente viables estas ideas y esencialmente imparables. Redes de alta velocidad, ISDN, cajas inviolables, tarjetas inteligentes, satélites, transmisores Ku-band, computadores personales multi-MIPS y chips de cifrado en desarrollo serán algunas de las tecnologías que permitirán este cambio.
+
+El Estado, por supuesto, intentará frenar o detener la propagación de esta tecnología, citando preocupaciones de seguridad nacional, el uso de esta tecnología por traficantes de drogas y evasores fiscales, y temores de desintegración social. Muchas de estas preocupaciones serán válidas; el criptoanarquismo permitirá que los secretos nacionales sean intercambiados libremente y permitirá que materiales ilícitos y robados sean intercambiados. Incluso un mercado informático anónimo hará posible mercados repugnantes para asesinatos y extorsión. Varios elementos criminales y extranjeros serán usuarios activos de CryptoNet. Pero esto no detendrá la propagación del criptoanarquismo.
+
+Al igual que la tecnología de la impresión alteró y redujo el poder de los gremios medievales y la estructura social, de la misma manera las métodos criptológicos modificarán fundamentalmente la naturaleza de las corporaciones y de la interferencia gubernamental en las transacciones económicas. Combinados con los mercados emergentes de información, el criptoanarquismo creará un mercado líquido para cualquier material que pueda ponerse en palabras y en imágenes. Y exactamente como una invención aparentemente menor como el alambre de púas permitió la cercado de vastas granjas y ranchos, modificando para siempre los conceptos de propiedad y derechos de propiedad en el Oeste, de la misma manera el descubrimiento aparentemente menor de una rama matemática oscura se convertirá en las tijeras que desmantelan las vallas de alambre de púas alrededor de la propiedad intelectual.
+
+**¡Levántate, no tienes nada que perder excepto tus vallas de alambre de púas!**
