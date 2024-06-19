@@ -1,0 +1,18 @@
+# Il Manifesto Criptoanarchico
+
+**Timothy C. May**  
+tcmay@netcom.com  
+
+---
+
+Un fantasma aleggia sul mondo moderno, il fantasma dell'anarchia cripto.
+
+La tecnologia informatica sta per fornire la capacità a individui e gruppi di comunicare e interagire in modo completamente anonimo. Due persone possono scambiare messaggi, condurre affari e negoziare contratti elettronici senza mai conoscere il vero nome o l'identità legale dell'altro. Le interazioni sulle reti saranno irrilevabili, grazie a un rerouting esteso di pacchetti cifrati e a scatole inviolabili che implementano protocolli crittografici con quasi assoluta certezza contro qualsiasi manomissione. Le reputazioni saranno di importanza centrale, molto più importanti nelle transazioni rispetto anche alle valutazioni di credito di oggi. Questi sviluppi cambieranno completamente la natura della regolazione governativa, la capacità di tassare e controllare le interazioni economiche, la capacità di mantenere informazioni segrete, e cambieranno anche la natura della fiducia e della reputazione.
+
+La tecnologia per questa rivoluzione - che sarà sia sociale che economica - esiste in teoria da più di un decennio. I metodi si basano sulla crittografia a chiave pubblica, sui sistemi di prova interattivi a zero-knowledge, e su vari protocolli software per l'interazione, l'autenticazione e la verifica. Fino ad ora, l'attenzione si è concentrata su conferenze accademiche in Europa e negli Stati Uniti, monitorate da vicino dall'National Security Agency. Ma solo di recente i computer personali e le reti informatiche hanno raggiunto una velocità sufficiente per rendere realizzabili queste idee. E le prossime dieci anni porteranno abbastanza velocità aggiuntiva per rendere economicamente viabili queste idee e sostanzialmente inarrestabili. Reti ad alta velocità, ISDN, scatole inviolabili, smart card, satelliti, trasmettitori Ku-band, personal computer multi-MIPS e chip crittografici in fase di sviluppo saranno alcune delle tecnologie che consentiranno questa evoluzione.
+
+Lo Stato, ovviamente, cercherà di rallentare o fermare la diffusione di questa tecnologia, citando preoccupazioni di sicurezza nazionale, l'utilizzo di questa tecnologia da parte di trafficanti di droga e evasori fiscali, e timori di disgregazione sociale. Molte di queste preoccupazioni saranno valide; l'anarchia cripto consentirà ai segreti nazionali di essere scambiati liberamente e consentirà materiali illeciti e rubati di essere scambiati. Persino un mercato informatico anonimo renderà possibile mercati ripugnanti per omicidi e estorsioni. Elementi criminali e stranieri saranno utenti attivi di CryptoNet. Ma questo non fermerà la diffusione dell'anarchia cripto.
+
+Esattamente come la tecnologia dell'impressione ha modificato e ridotto il potere dei corporati medievali e della struttura sociale, così le metodologie crittologiche modificheranno fondamentalmente la natura delle corporazioni e dell'interferenza governativa nelle transazioni economiche. Combinata con i mercati emergenti di informazioni, l'anarchia cripto creerà un mercato liquido per qualsiasi materiale che possa essere espresso in parole e immagini. E esattamente come una invenzione apparentemente minore come il filo spinato ha permesso la recinzione di vasti ranch e fattorie, modificando per sempre i concetti di proprietà e diritti di proprietà nel West, così anche il semplice ma cruciale sviluppo proveniente da un ramo matematico oscuro diventerà le cesoie che smantellano le recinzioni di filo spinato intorno alla proprietà intellettuale.
+
+**Alzati, non hai nulla da perdere tranne le tue recinzioni di filo spinato!**
